@@ -1,6 +1,7 @@
 ## Hi there! 👋 
 
-- 🔭 I’m currently working on **a project that does sentiment analysis of transliterated social media comments.**
+- 🔭 I’m currently working on **a project that performs sentiment analysis of transliterated social media comments.**<br/>
+  Check it out here: [Project URL](https://github.com/S-M-Creations/SentimentAnalysis-of-Transliterated-SocialMedia-Comments)
 - 🌱 I’m currently learning **streamlit and machine learning.**
 - 👯 I’m looking to collaborate on **cool data science projects.**
 - 💬 Ask me about data **analytics**
