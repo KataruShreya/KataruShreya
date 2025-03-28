@@ -1,15 +1,14 @@
 ## Hi there! 👋 
 
 - 🔭 I’m currently working on **a project that performs sentiment analysis of transliterated social media comments.**<br/>
-  Check it out here: [Project URL](https://github.com/S-M-Creations/SentimentAnalysis-of-Transliterated-SocialMedia-Comments)
+  Check it out here: [Project URL](https://github.com/KataruShreya/Sentiment-Analysis-of-Transliterated-Social-Media-Comments-using-Python)
 - 🌱 I’m currently learning **streamlit and machine learning.**
 - 👯 I’m looking to collaborate on **cool data science projects.**
 - 💬 Ask me about data **analytics**
-- 📫 How to reach me: **katarushreya1729@gmail.com or [Shreya Kataru (Linkedin)](https://www.linkedin.com/in/shreyakataru)**
+- 📫 How to reach me:<br/>
+⠀⠀ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:katarushreya1729@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyakataru)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyakataru) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:katarushreya1729@gmail.com) 
 
 ## 👩🏻‍💻 About me: 
 
