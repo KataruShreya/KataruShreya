@@ -1,7 +1,7 @@
 ## Hi there! 👋 
 
-- 🔭 I’m currently working on **a project that performs sentiment analysis of transliterated social media comments.**<br/>
-  Check it out here: [Project URL](https://github.com/KataruShreya/Sentiment-Analysis-of-Transliterated-Social-Media-Comments-using-Python)
+- 🔭 My recent project is **a project that performs sentiment analysis of transliterated social media comments.**<br/>
+  ⠀⠀ Check it out here: [Project URL](https://github.com/KataruShreya/Sentiment-Analysis-of-Transliterated-Social-Media-Comments-using-Python)
 - 🌱 I’m currently learning **streamlit and machine learning.**
 - 👯 I’m looking to collaborate on **cool data science projects.**
 - 💬 Ask me about data **analytics**
@@ -9,12 +9,11 @@
 ⠀⠀ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:katarushreya1729@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyakataru)
 
 
-
 ## 👩🏻‍💻 About me: 
 
 I'm Shreya, an ambitious data science student passionate about turning complex data into actionable insights. 🔍
 
-Currently pursuing my bachelor's degree in Data Science and Data Analytics at Loyola Academy, I'm eager to apply my analytical skills to real-world challenges.🎯
+I finished my bachelor's degree in Data Science and Data Analytics from Loyola Academy, Hyderabad in May 2025. I'm eager to apply my analytical skills to real-world challenges.🎯
 
 Tools and technologies I work with:<br/>
 ➡️ Excel<br/>
@@ -41,4 +40,7 @@ I excel at solving problems and enjoy working with teams to uncover valuable ins
 ---
 [![](https://visitcount.itsvg.in/api?id=KataruShreya&icon=1&color=0)](https://visitcount.itsvg.in)
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=KataruShreya&label=Profile%20views&color=0e75b6&style=flat" alt="KataruShreya" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
